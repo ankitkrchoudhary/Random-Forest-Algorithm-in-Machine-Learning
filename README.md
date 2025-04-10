@@ -1,0 +1,1 @@
+Welcome to my Random Forest Algorithm projects repository! This repo contains practical implementations, detailed explanations, and real-world applications of Random Forest — one of the most versatile and powerful machine learning algorithms used for classification and regression tasks.
